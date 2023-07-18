@@ -11,7 +11,7 @@ How I started "Sphinx"
 =======================================
 
 **Documentation** is almost always necessary.
-I write comments inbetween codes, but I always feel a "REEDME" file is needed(for others and myself too).
+I write comments inbetween codes, but I always feel the description isn't enough and eventually write a "README" file in the end(for others and myself too).
 
 I used "LaTeX" for my graduation thesis(twice!), and I know how powerful it is when generating clean, well designed and formal text.
 But, it's time consuming, heavy and complicated.
@@ -33,10 +33,18 @@ And that's how I got my eye on "Sphinx".
 About the Book - "Sphinxをはじめよう"
 ===========================================
 
-I bought a Japanese book for Sphinx, because I'm living in Japan.
-The author of this book, is one of the developer's of Sphinx.
-And that fact gave me trust in this book.
+* Title: Sphinxをはじめよう(第３版)
+* Author: 清水川 貴之、小宮 健、山田 剛、若山 史郎
+* Publisher: O'REILLY
 
+I chose a Japanese book named "Sphinxをはじめよう" because I'm living in Japan.
+O'REILLY was the publisher of this book, so I guessed this won't be the worst choice.
+
+Why am I writing this in English?
+===========================================
+
+Just wanted to practice English.
+Now I'm off to study.
 
 .. toctree::
    :maxdepth: 2
